@@ -1,0 +1,251 @@
+
+@font-face {
+    font-family:'Macondo', cursive; 
+   src: url("https://fonts.googleapis.com");
+   font-weight: 400;
+}
+.quisuisje{
+    
+    justify-content: center;
+    text-align: center;
+    height: 480px;
+    width: 1300;
+    background-color: #db6363;
+    border-radius: 8px;
+    border-style: double;
+    border-image: linear-gradient(to right, #add100, #7b920a);
+    border-image-slice: 1;
+}
+
+.mescordonnées{
+    background-color: #db6363;
+    color: #ffffff;
+    width: 180px;
+    height: 45px;
+}
+#experiencespro{
+    color: #020202;
+}
+.experiences{
+    color: #fff;
+}
+.Hard-skills{
+    color:#09fa96 ;
+}
+.MonNpr{
+    color: #5ee7ce;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 90%; 
+    background-image: url('https://dolys.fr/wp-content/uploads/2018/02/particules.gif');
+    height: 130px;
+    width: 100%;
+    border-radius: 10px;
+}
+iframe{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+   
+}
+
+td{
+    border: 1px solid #09fa96;
+}
+
+tfoot {
+    background-color: #a74545;
+    color: #fff;
+}
+table{
+    color:#ffffff ;
+    font-size:15px;
+     border-color: #09fa96;
+     border-style: dashed;
+     border-radius:20px ;
+     text-align:center ;
+     width: 1300px;
+     height:300px;
+     margin-top : 10px; 
+     }
+     th{
+         color: #e2fa0e;
+         margin: auto;
+       }
+
+
+footer{
+    font-size: large;
+    text-align: center;
+    height: 60px;
+    background-color: #287265;
+    
+}   
+#para{
+    color:greenyellow;
+    font-size: 65px;
+     }
+a{
+    font-size: 20px;
+    color: #f0f3f0;
+}
+
+
+.header{
+    background-color: #287265;
+    height: 80px;
+    margin: 20px;
+}
+nav a{
+    display: inline;
+    background: #db6363;
+    width: 600px;
+    height: 90px;
+    text-decoration:none;
+    border-radius: 60px;
+}
+nav ul li{
+    list-style-type:none;
+    display:inline-block;
+    padding: 30px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+ul li a:hover{
+    color:rgb(195, 252, 110);
+    text-decoration: underline;
+}
+.Acceuil li{
+    float:  left;
+    padding: 35px;
+}
+.Acceuil li a{
+    text-decoration: none;
+}
+form{
+    padding: 5px;
+    text-align: right;
+}
+input[type="search"]{
+    font-size: 20px;
+}
+h1{
+    color: #f8f8f8;
+    font-size: 30px;
+    background:#287265 ;
+}
+h2{
+    color: #35c435;
+    font-size: 25px;
+}
+#pacss{
+    font-size: larger;
+    color: #f0f3f0;
+}
+
+#pacs{
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    padding: 4px;
+    color: #09fa96;
+    
+}
+#page{
+    font-size: 30px;
+    color: #09fa96;
+}
+
+#pagg{
+    font-size: 25px;
+    color: #f0f3f0;
+    width: auto;
+}
+#Hacht{
+    color: blanchedalmond;
+}
+#Def{
+    font-size: 20px;
+    width: auto;
+    height: auto;
+}
+a{
+    color: #f0f3f0;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+}
+#synta{
+    color: #09fa96;
+    font-size: 20px;
+}
+img{
+    border: #f8f5ef;
+    width: 250px;
+    height: 400px; 
+}
+caption{
+    color: #09fa96;
+    font-size: large;
+}
+img{
+    width: 1400px; ;
+    margin: auto;
+}
+#struc{
+    font-size: 100px;
+    width: 600px;
+}
+#RevAcc{
+    color: red;
+}
+#lp-block-11{
+    display: block;
+    background:rgba(0,0,0,0.5) ;
+    background-image: url(https://d9hhrg4mnvzow.cloudfront.net/www.formations-developpeur.fr/a40a0970-unsplash-xjxwbfso2f0-code-on-a-laptop-screen_11hc0zk00000000000001o.jpg );
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: cover;
+    border-style:none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 110px;
+    border-radius: 60px;
+    width: 1320px;
+    height: 350px;
+    position: relative;
+}
+#lp-block-11-color-overlay{
+    position: absolute;
+   
+    height: 500px;
+    width: 100%;
+}
+#lp-content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 7140px;
+    height: 721px;
+}
+
+
+
+    
+    
+
+
